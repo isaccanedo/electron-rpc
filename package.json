@@ -1,0 +1,26 @@
+{
+  "name": "electron-rpc",
+  "version": "2.0.1",
+  "description": "A lightweight rpc-style wrapper for the ipc module of electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard ./*.js"
+  },
+  "author": "Isac Canedo",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaccanedo/electron-rpc.git"
+  },
+  "homepage": "https://github.com/isaccanedo/electron-rpc",
+  "keywords": [
+    "electron",
+    "atom-shell",
+    "atom",
+    "rpc",
+    "ipc"
+  ]
+}
